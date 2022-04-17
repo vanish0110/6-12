@@ -1,0 +1,17 @@
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\дз\программирование2семестр\лрС#\работа 6\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
